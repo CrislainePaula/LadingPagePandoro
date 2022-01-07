@@ -1,0 +1,117 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Tauri&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+body {
+    font-size: 100%;
+    background: linear-gradient(180deg, #FFFFFF 0.12%, #D3B29F 100%);
+    
+}
+
+.container {
+    display: flex;
+}
+
+.nome-pandoro {
+    font-family: 'Tauri', sans-serif;
+    color: #241C06;
+    margin-top: 10px;
+}
+
+.cabecalho {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px;
+    background-color: #BAA58A;
+}
+
+    
+.menu-cabecalho{
+    display: flex;
+    gap: 29px;
+    
+}
+
+.item-menu {
+    font-family: 'Tauri', sans-serif;
+    color: #241C06;
+}
+
+.conteudo {
+    margin-bottom: 40px;
+    
+}
+
+.principal {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: justify;
+    
+    
+}
+
+.principal-titulo {
+    position: relative;
+    left: 170px;
+    margin-top: 1em;
+    margin-bottom: 20px;
+    font-family: 'Tauri', sans-serif;
+    color: #241C06;
+    font-size: 45px;
+}
+
+.principal-subtitulo {
+    position: relative;
+    left: 170px;
+    margin-bottom: 20px;
+    font-family: 'Tauri', sans-serif;
+    color: #241C06;
+}
+
+.botao {
+    position: relative;
+    left: 170px;
+}
+
+.img-batinha{
+    display: block;
+    margin-left: auto;
+    width: 370px;
+}
+
+.pando-inteiro {
+    display: block;
+    margin-left: auto;
+    margin-top: 2%;
+    width: 19.5%;
+    height: 19.5%;
+    
+}
+
+.rodape {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px;
+    background-color: #9B8068;   
+}
+
+.botao {
+    background-color: #9B8068;
+    font-family: 'Tauri', sans-serif;
+    font-size: 20px;
+    width: 150px;
+    height: 50px ;
+    border: none;
+    border-radius: 10px;
+}
