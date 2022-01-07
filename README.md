@@ -2,7 +2,7 @@
 
 ### |Exercício de aprendizagem|🐱
 
-Essa é minha primeira lading page, referente ao tema do meu gato **Pandoro**. Um projeto simples que desenvolvi, versão somente para desktop usando **HTML** E **CSS**.
+Essa é minha primeira lading page, referente ao tema do meu gato **Pandoro**. Um projeto simples que desenvolvi em versão somente para desktop usando **HTML** E **CSS**.
 
 <img src="imagens/paginapandoro.png" alt="ladingpage">
 
